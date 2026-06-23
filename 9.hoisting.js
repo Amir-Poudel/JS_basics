@@ -1,5 +1,6 @@
 //* hoisting
 // var x;
+//git check example
 
 console.log(x); //
 
